@@ -1,6 +1,8 @@
 # Software Engineering Career Club Resources
 
-Welcome to the Software Engineering Career Club at the University of Washington! This repository is a collection of resources that will help you navigate and excel in your software engineering career. Whether you are a beginner or an experienced developer, this repository aims to provide you with valuable information, tools, and guidance.
+### Welcome to the Software Engineering Career Club at the University of Washington! 
+
+This repository is a collection of resources that will help you navigate and excel in your software engineering career. Whether you are a beginner or an experienced developer, this repository aims to provide you with valuable information, tools, and guidance.
 
 ## Table of Contents
 
