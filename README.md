@@ -5,11 +5,12 @@ Welcome to the Software Engineering Career Club at the University of Washington!
 ## Table of Contents
 
 - [2023 SWE Cycle](./2023%20SWE%20Cycle)
-- [Bureaucratic Stuff](./Bureaucratic%20Stuff)
 - [Interview Prep](./Interview%20Prep)
 - [Job Application Prep](./Job%20Application%20Prep)
 - [Job Search Databases](./Job%20Search%20Databases)
 - [Media](./Media)
 - [Non-CS Major Finesse](./Non-CS%20Major%20Finesse)
 - [SWECC Specific Stuff](./SWECC%20Specific%20Stuff)
+
+
 
