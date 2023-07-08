@@ -9,7 +9,6 @@ Welcome to the Software Engineering Career Club at the University of Washington!
 - [Job Application Prep](./Job%20Application%20Prep)
 - [Job Search Databases](./Job%20Search%20Databases)
 - [Non-CS Major Finesse](./Non-CS%20Major%20Finesse)
-- [SWECC Specific Stuff](./SWECC%20Specific%20Stuff)
 
 
 
