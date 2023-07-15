@@ -1,3 +1,3 @@
- [New Grad Positions 2023](https://github.com/coderQuad/New-Grad-Positions-2023)
+  - [New Grad Positions 2023](https://github.com/coderQuad/New-Grad-Positions-2023)
   - [Summer 2023 Internships](https://github.com/pittcsc/Summer2023-Internships)
   - [Winter 2022 Internships](https://github.com/uwcsc/winter2022-internships)
