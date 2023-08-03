@@ -31,5 +31,9 @@ This repository is a collection of resources that will help you navigate and exc
 
 - [Meeting notes](./SWECC-Specific-Stuff/Meeting-Notes/)
 
+- [Ultimate LinkedIn Guide](./LinkedIn/README.md)
+
+- [Zero to Offer, an awesome guide by Pitt CS Club](https://pittcs.wiki/zero-to-offer/)
+
 - [Succeeding in tech as a non-major at UW](./Non-CS-Major-Finesse)
 
