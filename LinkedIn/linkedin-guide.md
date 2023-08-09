@@ -104,7 +104,16 @@
     new contacts, as they can offer valuable insights and future opportunities in your software engineering career.
 </p>
 
-<p style="font-size: 18px;">
-    By following this step-by-step guide, you'll be well on your way to securing valuable SWE internship referrals through LinkedIn, setting the stage for a successful and rewarding career in software engineering. Best of luck on your
-    journey!
+<h2 style="font-size: 24px; color: purple;">Step 13: Profit</h2>
+<br>
+
+
+<p style="font-size: 18px; color: ">
+    By following this step-by-step guide, you'll be well on your way to securing valuable SWE internship referrals, setting the stage for a successful and rewarding career in software engineering.
+</p>
+
+
+
+<p style="font-size: 18px; color: ">
+    Best of luck!
 </p>
