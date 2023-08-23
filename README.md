@@ -27,7 +27,13 @@ This repository is a collection of resources that will help you navigate and exc
 - [Behavioral Interview Prep](https://www.techinterviewhandbook.org/behavioral-interview/)
 
 
+- [Competitive coding problems from Google](https://codingcompetitions.withgoogle.com/past-competitions)
+
 ## Misc.
+
+- [Refer Me - A site to give and get referrals](https://refer.me/)
+
+- [Candor - an awesome site for underrepresented individuals to network on](https://candoor.io/)
 
 - [Meeting notes](./SWECC-Specific-Stuff/Meeting-Notes/)
 
