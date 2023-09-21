@@ -42,4 +42,5 @@ This repository is a collection of resources that will help you navigate and exc
 - [Zero to Offer, an awesome guide by Pitt CS Club](https://pittcs.wiki/zero-to-offer/)
 
 - [Succeeding in tech as a non-major at UW](./Non-CS-Major-Finesse)
+- [Yoodli - AI Mock Interview & Public Speaking Practice](https://app.yoodli.ai)
 
