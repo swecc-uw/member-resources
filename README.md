@@ -31,6 +31,8 @@ This repository is a collection of resources that will help you navigate and exc
 
 ## Misc.
 
+- [Google's Professional Career Starter Pack](https://careersonair.withgoogle.com/student-career-starter-pack)
+
 - [Refer Me - A site to give and get referrals](https://refer.me/)
 
 - [Candor - an awesome site for underrepresented individuals to network on](https://candoor.io/)
