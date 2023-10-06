@@ -19,7 +19,7 @@ This repository is a collection of resources that will help you navigate and exc
 - [List of Job Application Platforms / Tools](Job-Search-Databases/job-search-sites.md)
 - [**Refer Me** - Give & Get Referrals](https://refer.me/)
 #### Resume / Linkedin
-- [ATS Parseable Resume Templates](https://drive.google.com/drive/folders/11jkx4sB4X0O_GEGKaz4xr5H5oG_vDP9r?usp=drive_link)
+- [Jake's Resume Template](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs)
 - [General Resume Tips](prep/application-resume-tips.md)
 - [Ultimate LinkedIn Guide](./LinkedIn/linkedin-guide.md)
 
